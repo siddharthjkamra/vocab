@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+
+ol.circle { font-family: 'Comfortaa', cursive; list-style: none; counter-reset: item; } ol.circle > li{ counter-increment: item; margin-bottom: 10px; font-size: 20px;} ol.circle > li:before { margin-right: 10px; content: counter(item); background: #a1253f; border-radius: 100%; color: white; width: 1.3em; text-align: center; display: inline-block; }
