@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 
 body {
-font-family: 'Comfortaa', cursive;}
+font-family: 'Noto Sans', sans-serif;}
 
 #myInput {
   background-image: url('https://www.w3schools.com/css/searchicon.png');
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Noto Sans', sans-serif;
   background-position: 10px 12px;
   background-repeat: no-repeat;
   width: 100%;
